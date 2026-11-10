@@ -24,7 +24,7 @@
 
     <div class="ai-whatsapp-bar">
         <span>Butuh bantuan staf langsung?</span>
-        <a href="https://wa.me/6281234567890?text=Halo%20Admin%20MAZSEH,%20saya%20ingin%20konsultasi%20sewa%20mobil." target="_blank" rel="noopener">
+        <a href="https://wa.me/6285785180423?text=Halo%20Admin%20MAZSEH,%20saya%20ingin%20konsultasi%20sewa%20mobil." target="_blank" rel="noopener">
             <x-icon name="phone" style="--od-icon-size: 14px;" />
             <span>WhatsApp Admin</span>
         </a>
